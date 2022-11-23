@@ -1,0 +1,23 @@
+{
+  "name": "solidjs-auth-form",
+  "version": "1.0.0",
+  "description": "A Solid Start Auth strategy for working with forms.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "patch": "tsc && npm version patch && npm publish",
+    "minor": "tsc && npm version minor && npm publish",
+    "major": "tsc && npm version major && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex23rodriguez/solidjs-auth-form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex23rodriguez/solidjs-auth-form/issues"
+  },
+  "homepage": "https://github.com/Alex23rodriguez/solidjs-auth-form#readme"
+}
