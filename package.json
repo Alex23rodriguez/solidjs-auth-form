@@ -5,9 +5,9 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "patch": "tsc && npm version patch && npm publish",
-    "minor": "tsc && npm version minor && npm publish",
-    "major": "tsc && npm version major && npm publish"
+    "patch": "npm version patch && npm publish",
+    "minor": "npm version minor && npm publish",
+    "major": "npm version major && npm publish"
   },
   "repository": {
     "type": "git",
