@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Alex23rodriguez/solidjs-auth-form/issues"
   },
-  "homepage": "https://github.com/Alex23rodriguez/solidjs-auth-form#readme"
+  "homepage": "https://github.com/Alex23rodriguez/solidjs-auth-form#readme",
+  "dependencies": {
+    "solidjs-auth": "^0.0.8"
+  }
 }
