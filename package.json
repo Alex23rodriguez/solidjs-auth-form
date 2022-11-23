@@ -13,7 +13,11 @@
     "type": "git",
     "url": "git+https://github.com/Alex23rodriguez/solidjs-auth-form.git"
   },
-  "keywords": [],
+  "keywords": [
+    "SolidJS",
+    "SolidStart",
+    "SolidAuth"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -21,6 +25,7 @@
   },
   "homepage": "https://github.com/Alex23rodriguez/solidjs-auth-form#readme",
   "dependencies": {
+    "solid-start": "^0.2.5",
     "solidjs-auth": "^0.0.8"
   }
 }
