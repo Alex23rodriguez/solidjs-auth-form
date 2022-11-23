@@ -1,6 +1,5 @@
 {
   "name": "solidjs-auth-form",
-  "type": "module",
   "version": "1.0.2",
   "description": "A Solid Start Auth strategy for working with forms.",
   "main": "dist/index.js",
